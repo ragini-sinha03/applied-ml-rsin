@@ -1,0 +1,54 @@
+Feature Set: Years of Operation
+X_train Shape: (47, 1), X_test Shape: (12, 1)
+==================================================
+Feature Set: How Much They Raised
+X_train Shape: (47, 1), X_test Shape: (12, 1)
+==================================================
+Feature Set: What They Did
+X_train Shape: (47, 58), X_test Shape: (12, 58)
+==================================================
+Feature Set: Why They Failed
+X_train Shape: (47, 59), X_test Shape: (12, 59)
+==================================================
+Feature Set: Years of Operation_How Much They Raised
+X_train Shape: (47, 2), X_test Shape: (12, 2)
+==================================================
+Feature Set: Years of Operation_What They Did
+X_train Shape: (47, 59), X_test Shape: (12, 59)
+==================================================
+Feature Set: Years of Operation_Why They Failed
+X_train Shape: (47, 60), X_test Shape: (12, 60)
+==================================================
+Feature Set: How Much They Raised_What They Did
+X_train Shape: (47, 59), X_test Shape: (12, 59)
+==================================================
+Feature Set: How Much They Raised_Why They Failed
+X_train Shape: (47, 60), X_test Shape: (12, 60)
+==================================================
+Feature Set: What They Did_Why They Failed
+X_train Shape: (47, 117), X_test Shape: (12, 117)
+==================================================
+Feature Set: Years of Operation_How Much They Raised_What They Did
+X_train Shape: (47, 60), X_test Shape: (12, 60)
+==================================================
+Feature Set: Years of Operation_How Much They Raised_Why They Failed
+X_train Shape: (47, 61), X_test Shape: (12, 61)
+==================================================
+Feature Set: Years of Operation_What They Did_Why They Failed
+X_train Shape: (47, 118), X_test Shape: (12, 118)
+==================================================
+Feature Set: How Much They Raised_What They Did_Why They Failed
+X_train Shape: (47, 118), X_test Shape: (12, 118)
+==================================================
+Feature Set: Years of Operation_How Much They Raised_What They Did_Why They Failed
+X_train Shape: (47, 119), X_test Shape: (12, 119)
+==================================================
+Feature Set: Start Year
+X_train Shape: (47, 1), X_test Shape: (12, 1)
+==================================================
+Feature Set: End Year
+X_train Shape: (47, 1), X_test Shape: (12, 1)
+==================================================
+Feature Set: Start Year_End Year
+X_train Shape: (47, 2), X_test Shape: (12, 2)
+==================================================

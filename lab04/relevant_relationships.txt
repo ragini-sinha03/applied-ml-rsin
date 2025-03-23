@@ -1,0 +1,9 @@
+Distribution of Why They Failed
+Why They Failed vs. How Much They Raised
+Why They Failed vs. Years of Operation
+Why They Failed vs. Sector
+Why They Failed vs. Giants
+Why They Failed vs. Competition
+Why They Failed vs. Poor Market Fit
+Why They Failed vs. Regulatory Pressure
+Correlation Matrix of Numerical Features

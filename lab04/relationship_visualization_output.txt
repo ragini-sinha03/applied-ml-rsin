@@ -1,0 +1,130 @@
+Pair Plots of Numerical Features
+Correlation Matrix of Numerical Features
+Box Plot: How Much They Raised vs. Name
+Box Plot: Giants vs. Name
+Box Plot: No Budget vs. Name
+Box Plot: Competition vs. Name
+Box Plot: Poor Market Fit vs. Name
+Box Plot: Acquisition Stagnation vs. Name
+Box Plot: Platform Dependency vs. Name
+Box Plot: Monetization Failure vs. Name
+Box Plot: Niche Limits vs. Name
+Box Plot: Execution Flaws vs. Name
+Box Plot: Trend Shifts vs. Name
+Box Plot: Toxicity/Trust Issues vs. Name
+Box Plot: Regulatory Pressure vs. Name
+Box Plot: Overhype vs. Name
+Box Plot: Start Year vs. Name
+Box Plot: End Year vs. Name
+Box Plot: How Much They Raised vs. Sector
+Box Plot: Giants vs. Sector
+Box Plot: No Budget vs. Sector
+Box Plot: Competition vs. Sector
+Box Plot: Poor Market Fit vs. Sector
+Box Plot: Acquisition Stagnation vs. Sector
+Box Plot: Platform Dependency vs. Sector
+Box Plot: Monetization Failure vs. Sector
+Box Plot: Niche Limits vs. Sector
+Box Plot: Execution Flaws vs. Sector
+Box Plot: Trend Shifts vs. Sector
+Box Plot: Toxicity/Trust Issues vs. Sector
+Box Plot: Regulatory Pressure vs. Sector
+Box Plot: Overhype vs. Sector
+Box Plot: Start Year vs. Sector
+Box Plot: End Year vs. Sector
+Box Plot: How Much They Raised vs. Years of Operation
+Box Plot: Giants vs. Years of Operation
+Box Plot: No Budget vs. Years of Operation
+Box Plot: Competition vs. Years of Operation
+Box Plot: Poor Market Fit vs. Years of Operation
+Box Plot: Acquisition Stagnation vs. Years of Operation
+Box Plot: Platform Dependency vs. Years of Operation
+Box Plot: Monetization Failure vs. Years of Operation
+Box Plot: Niche Limits vs. Years of Operation
+Box Plot: Execution Flaws vs. Years of Operation
+Box Plot: Trend Shifts vs. Years of Operation
+Box Plot: Toxicity/Trust Issues vs. Years of Operation
+Box Plot: Regulatory Pressure vs. Years of Operation
+Box Plot: Overhype vs. Years of Operation
+Box Plot: Start Year vs. Years of Operation
+Box Plot: End Year vs. Years of Operation
+Box Plot: How Much They Raised vs. What They Did
+Box Plot: Giants vs. What They Did
+Box Plot: No Budget vs. What They Did
+Box Plot: Competition vs. What They Did
+Box Plot: Poor Market Fit vs. What They Did
+Box Plot: Acquisition Stagnation vs. What They Did
+Box Plot: Platform Dependency vs. What They Did
+Box Plot: Monetization Failure vs. What They Did
+Box Plot: Niche Limits vs. What They Did
+Box Plot: Execution Flaws vs. What They Did
+Box Plot: Trend Shifts vs. What They Did
+Box Plot: Toxicity/Trust Issues vs. What They Did
+Box Plot: Regulatory Pressure vs. What They Did
+Box Plot: Overhype vs. What They Did
+Box Plot: Start Year vs. What They Did
+Box Plot: End Year vs. What They Did
+Box Plot: How Much They Raised vs. Why They Failed
+Box Plot: Giants vs. Why They Failed
+Box Plot: No Budget vs. Why They Failed
+Box Plot: Competition vs. Why They Failed
+Box Plot: Poor Market Fit vs. Why They Failed
+Box Plot: Acquisition Stagnation vs. Why They Failed
+Box Plot: Platform Dependency vs. Why They Failed
+Box Plot: Monetization Failure vs. Why They Failed
+Box Plot: Niche Limits vs. Why They Failed
+Box Plot: Execution Flaws vs. Why They Failed
+Box Plot: Trend Shifts vs. Why They Failed
+Box Plot: Toxicity/Trust Issues vs. Why They Failed
+Box Plot: Regulatory Pressure vs. Why They Failed
+Box Plot: Overhype vs. Why They Failed
+Box Plot: Start Year vs. Why They Failed
+Box Plot: End Year vs. Why They Failed
+Box Plot: How Much They Raised vs. Takeaway
+Box Plot: Giants vs. Takeaway
+Box Plot: No Budget vs. Takeaway
+Box Plot: Competition vs. Takeaway
+Box Plot: Poor Market Fit vs. Takeaway
+Box Plot: Acquisition Stagnation vs. Takeaway
+Box Plot: Platform Dependency vs. Takeaway
+Box Plot: Monetization Failure vs. Takeaway
+Box Plot: Niche Limits vs. Takeaway
+Box Plot: Execution Flaws vs. Takeaway
+Box Plot: Trend Shifts vs. Takeaway
+Box Plot: Toxicity/Trust Issues vs. Takeaway
+Box Plot: Regulatory Pressure vs. Takeaway
+Box Plot: Overhype vs. Takeaway
+Box Plot: Start Year vs. Takeaway
+Box Plot: End Year vs. Takeaway
+Count Plot: Name vs. Sector
+Count Plot: Name vs. Years of Operation
+Count Plot: Name vs. What They Did
+Count Plot: Name vs. Why They Failed
+Count Plot: Name vs. Takeaway
+Count Plot: Sector vs. Years of Operation
+Count Plot: Sector vs. What They Did
+Count Plot: Sector vs. Why They Failed
+Count Plot: Sector vs. Takeaway
+Count Plot: Years of Operation vs. What They Did
+Count Plot: Years of Operation vs. Why They Failed
+Count Plot: Years of Operation vs. Takeaway
+Count Plot: What They Did vs. Why They Failed
+Count Plot: What They Did vs. Takeaway
+Count Plot: Why They Failed vs. Takeaway
+Count Plot: Distribution of Why They Failed
+Box Plot: How Much They Raised vs. Why They Failed
+Box Plot: Giants vs. Why They Failed
+Box Plot: No Budget vs. Why They Failed
+Box Plot: Competition vs. Why They Failed
+Box Plot: Poor Market Fit vs. Why They Failed
+Box Plot: Acquisition Stagnation vs. Why They Failed
+Box Plot: Platform Dependency vs. Why They Failed
+Box Plot: Monetization Failure vs. Why They Failed
+Box Plot: Niche Limits vs. Why They Failed
+Box Plot: Execution Flaws vs. Why They Failed
+Box Plot: Trend Shifts vs. Why They Failed
+Box Plot: Toxicity/Trust Issues vs. Why They Failed
+Box Plot: Regulatory Pressure vs. Why They Failed
+Box Plot: Overhype vs. Why They Failed
+Box Plot: Start Year vs. Why They Failed
+Box Plot: End Year vs. Why They Failed
