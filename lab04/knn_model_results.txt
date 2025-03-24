@@ -1,0 +1,4 @@
+Mean Absolute Error (KNN): 17.333333333333332
+Mean Squared Error (KNN): 420.9066666666667
+Root Mean Squared Error (KNN): 20.51601000844625
+R-squared (KNN): -0.1969855438818231

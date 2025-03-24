@@ -1,0 +1,4 @@
+Mean Absolute Error (SVR): 16.66550692229009
+Mean Squared Error (SVR): 351.6934972881933
+Root Mean Squared Error (SVR): 18.753492935669165
+R-squared (SVR): -0.00015529681451598165

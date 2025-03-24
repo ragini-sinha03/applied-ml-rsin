@@ -1,0 +1,4 @@
+Mean Absolute Error (Decision Tree): 19.583333333333332
+Mean Squared Error (Decision Tree): 586.5833333333334
+Root Mean Squared Error (Decision Tree): 24.219482515803954
+R-squared (Decision Tree): -0.6681412433841534

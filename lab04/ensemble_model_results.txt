@@ -1,0 +1,5 @@
+
+Mean Absolute Error (LGBM): 15.752576245451351
+Mean Squared Error (LGBM): 311.42269627811993
+Root Mean Squared Error (LGBM): 17.647172472612148
+R-squared (LGBM): 0.114367875344631

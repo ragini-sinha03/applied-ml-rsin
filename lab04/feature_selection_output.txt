@@ -1,0 +1,18 @@
+Columns before encoding: Index(['Name', 'Sector', 'Years of Operation', 'What They Did',
+       'How Much They Raised', 'Why They Failed', 'Takeaway', 'Giants',
+       'No Budget', 'Competition', 'Poor Market Fit', 'Acquisition Stagnation',
+       'Platform Dependency', 'Monetization Failure', 'Niche Limits',
+       'Execution Flaws', 'Trend Shifts', 'Toxicity/Trust Issues',
+       'Regulatory Pressure', 'Overhype', 'Start Year', 'End Year'],
+      dtype='object')
+Columns after encoding: Index(['How Much They Raised', 'Giants', 'No Budget', 'Competition',
+       'Poor Market Fit', 'Acquisition Stagnation', 'Platform Dependency',
+       'Monetization Failure', 'Niche Limits', 'Execution Flaws',
+       ...
+       'Takeaway_Timing is critical', 'Takeaway_Traction matters',
+       'Takeaway_Transparency is key', 'Takeaway_Trust comes first',
+       'Takeaway_Trust is king', 'Takeaway_Unique value is critical',
+       'Takeaway_Validate demand early', 'Takeaway_Validate niche early',
+       'Takeaway_Validate willingness to pay', 'Takeaway_Validation is key'],
+      dtype='object', length=289)
+Error: 'Why They Failed' column not found.
